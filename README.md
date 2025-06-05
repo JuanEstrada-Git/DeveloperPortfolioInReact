@@ -48,16 +48,18 @@ npm start
 
 # Build for production
 npm run build
-'''
+```
 ---
 
 ## 🌐 Live Demo
 Coming soon: [Add your deployed site URL here]
 
-📫 Contact
+## 📫 Contact
 Interested in working together or have feedback?
 Reach out via LinkedIn or open an issue on GitHub.
 
-Juan Estrada
+---
+
+## Juan Estrada
 Full Stack Developer | Project Manager | Creative Technologist
 Medellín, Colombia & Maimi, FL

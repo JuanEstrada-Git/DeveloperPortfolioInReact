@@ -1,70 +1,63 @@
-# Developer Portfolio in React
-DeveloperPortfolioInReact
-A Modern, Responsive Portfolio Site Built with React.js
+# DeveloperPortfolioInReact
 
-Overview
-This repository contains the source code for my personal developer portfolio. The site is designed to showcase my technical expertise, key projects, and professional profile in a clean, performant, and visually engaging way.
-All code is written in modern React with modular CSS for scalability and maintainability.
+_A modern, responsive portfolio site built with React.js_
 
-Features
-React.js Frontend: Built with functional components and hooks.
+---
 
-Responsive Design: Fully mobile-friendly and tested on major browsers.
+## 🚀 Overview
 
-Sticky Navigation Bar: Persistent, accessible navigation for seamless user experience.
+This project is my personal developer portfolio, designed to showcase my technical skills, selected projects, and professional background.  
+Built with modern React and modular CSS, the site is focused on clean code, performance, and UX best practices.
 
-Section-Based Layout: Includes Hero, About, Professional Profile, Projects, Carousel, and Contact sections.
+---
 
-Project Cards: Expandable/clickable cards for tech stack and project details.
+## 🛠️ Features
 
-Custom Modular CSS: Reusable and easy-to-modify styles for rapid iteration.
+- **React.js Frontend:** Functional components, hooks, and modular architecture.
+- **Responsive Design:** Fully mobile-friendly and cross-browser compatible.
+- **Sticky Navigation Bar:** Persistent, accessible nav for smooth UX.
+- **Section-Based Layout:** Includes Hero, About, Professional Profile, Projects, Carousel, and Contact.
+- **Interactive Project Cards:** Clickable/expandable cards for tech stacks and project links.
+- **CSS Modules:** Scoped, reusable styles for rapid, maintainable iteration.
+- **Accessible, Clean UI:** High contrast palette, keyboard navigation, semantic HTML.
 
-Clean, Accessible UI: High-contrast palette, keyboard navigability, semantic markup.
+---
 
-Tech Stack
-Framework: React.js (Vite or Create React App)
+## 💻 Tech Stack
 
-Styling: CSS Modules
+- **Framework:** React.js
+- **Styling:** CSS Modules
+- **Version Control:** Git & GitHub
+- **Deployment:** _To be added (Vercel, Netlify, GitHub Pages, etc.)_
+- **Tooling:** ESLint, Prettier _(if used)_
 
-Version Control: Git & GitHub
+---
 
-Deployment: (To be added: e.g., Vercel, Netlify, GitHub Pages)
+## 🧑‍💻 Getting Started
 
-Other: ESLint, Prettier (if applicable)
-
-Setup & Usage
-Clone the repository:
-
-sh
-Copy
-Edit
+```bash
+# Clone the repository
 git clone https://github.com/JuanEstrada-Git/DeveloperPortfolioInReact.git
 cd DeveloperPortfolioInReact
-Install dependencies:
 
-sh
-Copy
-Edit
+# Install dependencies
 npm install
-Run the development server:
 
-sh
-Copy
-Edit
+# Start the development server
 npm start
-Build for production:
 
-sh
-Copy
-Edit
+# Build for production
 npm run build
-Live Demo
-[Add your deployed URL here once live]
 
-Contact
-Want to connect or collaborate?
-Reach me via LinkedIn or open an issue.
+---
+
+🌐 Live Demo
+Coming soon: [Add your deployed site URL here]
+
+📫 Contact
+Interested in working together or have feedback?
+Reach out via LinkedIn or open an issue on GitHub.
 
 Juan Estrada
 Full Stack Developer | Project Manager | Creative Technologist
-Medellín, Colombia
+Medellín, Colombia & Maimi, FL

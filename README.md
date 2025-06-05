@@ -51,7 +51,7 @@ npm run build
 
 ---
 
-🌐 Live Demo
+## 🌐 Live Demo
 Coming soon: [Add your deployed site URL here]
 
 📫 Contact

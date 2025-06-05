@@ -1,4 +1,4 @@
-# DeveloperPortfolioInReact
+# Developer Portfolio In React
 
 _A modern, responsive portfolio site built with React.js_
 

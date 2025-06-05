@@ -54,6 +54,8 @@ npm run build
 ## 🌐 Live Demo
 Coming soon: [Add your deployed site URL here]
 
+---
+
 ## 📫 Contact
 Interested in working together or have feedback?
 Reach out via LinkedIn or open an issue on GitHub.
@@ -63,3 +65,5 @@ Reach out via LinkedIn or open an issue on GitHub.
 ## Juan Estrada
 Full Stack Developer | Project Manager | Creative Technologist
 Medellín, Colombia & Maimi, FL
+
+---
